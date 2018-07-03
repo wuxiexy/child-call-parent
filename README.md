@@ -1,2 +1,2 @@
 # child-call-parent
-Child component call parent component 
+A child component invokes the method of the parent component
